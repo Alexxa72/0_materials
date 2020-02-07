@@ -85,17 +85,29 @@ https://www.postgresqltutorial.com/
 
 ## 07_Topics
 
-### 07_01_Windows Functions
+### 07_00 SQL Order
 
+https://andreyex.ru/bazy-dannyx/baza-dannyx-mysql/poryadok-operatsij-sql-v-kakom-poryadke-mysql-vypolnyaet-zaprosy порядок SQL
+
+
+
+### 07_01 Subqueries
+
+http://palien.narod.ru/Documents/Programms/Transact_SQL/page0006.htm?clk2398502361292193773143=1 подзапросы
+https://function-x.ru/sql_subqueries.html
+https://professorweb.ru/my/sql-server/window-functions/level1/1_4.php
+
+
+### 07_09 Windows|analytic Functions
+https://professorweb.ru/my/sql-server/window-functions/level1/ Оконные функции T-SQL
+https://www.youtube.com/watch?v=PCN8KseFxpM Обобщенные табличные выражения (СTE) и оконные функции в MySQL 8.0 / Дмитрий Ленев (Oracle)  
+https://oracle-base.com/articles/misc/analytic-functions Oracle  
+http://sql-ex.ru/blogs/optimization/t-sql_window-functions-and-performance.html - оконные функции и производительность  
 http://www.interface.ru/fset.asp?Url=/oracle/anal-itiv.htm Аналитические функции  
 
-### 07_02_NoSQL
-
-https://university.mongodb.com/courses/M001/about  
 
 ### 07_10 different
 
-#### 02_10_01 Pandas
 Из SQL в Pandas и наоборот  
 https://hackernoon.com/pandas-cheatsheet-for-sql-people-part-1-2976894acd0  
 
@@ -114,5 +126,7 @@ https://www.databasestar.com
 modern-sql.com  
 
 
+## 09_NoSQL
 
+https://university.mongodb.com/courses/M001/about  
 
