@@ -97,6 +97,19 @@ http://palien.narod.ru/Documents/Programms/Transact_SQL/page0006.htm?clk23985023
 https://function-x.ru/sql_subqueries.html
 https://professorweb.ru/my/sql-server/window-functions/level1/1_4.php
 
+### 07_07 Functions
+
+http://oraclemaniacs.blogspot.com/2012/03/nvl-coalesce.html nvl coalesce    
+
+### 07 Triggers
+https://codetown.ru/sql/triggery/
+https://zametkinapolyah.ru/zametki-o-mysql/tema-13-triggery-v-sql-na-primere-bazy-dannyx-sqlite.html  
+https://oracle-patches.com/db/sql/3648-%D1%82%D1%80%D0%B8%D0%B3%D0%B3%D0%B5%D1%80%D1%8B-pl-sql-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4-dml-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%B0%D1%85
+https://metanit.com/sql/sqlserver/12.1.php
+https://postgrespro.ru/docs/postgresql/9.6/sql-createtrigger
+http://datasql.ru/basesql/14.htm
+https://www.intuit.ru/studies/courses/5/5/lecture/148?page=1
+
 
 ### 07_09 Windows|analytic Functions
 https://professorweb.ru/my/sql-server/window-functions/level1/ Оконные функции T-SQL
