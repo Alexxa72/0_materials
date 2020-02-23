@@ -124,6 +124,11 @@ http://www.interface.ru/fset.asp?Url=/oracle/anal-itiv.htm Аналитичес�
 Из SQL в Pandas и наоборот  
 https://hackernoon.com/pandas-cheatsheet-for-sql-people-part-1-2976894acd0  
 
+### implicit vs expicit join
+https://www.cybertec-postgresql.com/en/postgressql-implicit-vs-explicit-joins/  
+https://www.oreilly.com/content/what-is-the-difference-between-explicit-and-implicit-joins-in-mysql/  
+http://sqlbisam.blogspot.com/2013/12/implicit-join-vs-explicit-join.html?m=1  !Oracle!!!  
+
 
 # 08_SQL_articles
 
