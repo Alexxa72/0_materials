@@ -121,8 +121,14 @@ http://www.interface.ru/fset.asp?Url=/oracle/anal-itiv.htm Аналитичес�
 
 ### 07_10 different
 
-Из SQL в Pandas и наоборот  
+From SQL to Pandas 
 https://hackernoon.com/pandas-cheatsheet-for-sql-people-part-1-2976894acd0  
+
+
+### with and having  difference
+it's a bit deeper than https://www.geeksforgeeks.org/having-vs-where-clause-in-sql/
+https://javarevisited.blogspot.com/2013/08/difference-between-where-vs-having-clause-SQL-databse-group-by-comparision.html  
+https://www.java67.com/2019/06/difference-between-where-and-having-in-sql.html  
 
 ### implicit vs expicit join
 https://www.cybertec-postgresql.com/en/postgressql-implicit-vs-explicit-joins/  
